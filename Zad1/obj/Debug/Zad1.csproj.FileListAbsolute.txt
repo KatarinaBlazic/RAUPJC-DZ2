@@ -1,0 +1,5 @@
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\Zad1\bin\Debug\Zad1.dll
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\Zad1\bin\Debug\Zad1.pdb
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\Zad1\obj\Debug\Zad1.dll
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\Zad1\obj\Debug\Zad1.pdb

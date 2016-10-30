@@ -1,0 +1,8 @@
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\obj\Debug\pokretanje.csprojResolveAssemblyReference.cache
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\bin\Debug\pokretanje.exe.config
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\bin\Debug\pokretanje.exe
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\bin\Debug\pokretanje.pdb
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\bin\Debug\Zad1.dll
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\bin\Debug\Zad1.pdb
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\obj\Debug\pokretanje.exe
+C:\Users\Katarina\documents\visual studio 2015\Projects\RAUPJC-DZ2\pokretanje\obj\Debug\pokretanje.pdb
